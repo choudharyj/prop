@@ -1,1 +1,1 @@
-app.url = "/insurance/plans"
+app.url = "http://localhost:8080/insurance/plans"
